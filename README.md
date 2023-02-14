@@ -35,4 +35,4 @@ These libraries are included in the `head` section of the `index.html` file.
 
 ## License
 
-This application is licensed under the MIT license. See the `LICENSE` file for more information.
+This application is licensed under the MIT license.
