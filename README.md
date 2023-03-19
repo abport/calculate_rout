@@ -2,6 +2,8 @@
 
 This is a simple web application that demonstrates how to calculate routes between two points using Leaflet and OpenStreetMap.
 
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-View%20Now-brightgreen)](https://routecal.netlify.app/)
+
 ## Description
 
 This application allows users to click on the map to set their start and end points, and calculates the route between the two points. It uses the Leaflet JavaScript library to display the map and the OpenStreetMap routing machine to calculate the route.
